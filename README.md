@@ -1,5 +1,10 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anukalp%20Tejaswi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20and%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50" />
+
+
 # 💫 About Me:
-I’m a 3rd-year B.Tech student in Artificial Intelligence & Data Science at Arya College of Engineering & IT, passionate about building software solutions and solving real-world problems with data.<br><br>I specialize in Python programming and have hands-on experience in databases (MySQL) and project development.<br><br>My goal is to start my career as a Python Developer, grow into a Data Analyst, and eventually become a Data Scientist. I have completed several certifications to strengthen my knowledge, and I am constantly exploring new tools and techniques in programming and data analysis.<br><br>Skills & Interests: Python | SQL | MongoDB | Data Analysis | Data Visualization | Machine Learning | Problem Solving | Project Development
+I’m a 3rd-year B.Tech student in Artificial Intelligence & Data Science at Arya College of Engineering & IT, passionate about building software solutions and solving real-world problems with data.<br><br>I specialize in Python programming and have hands-on experience in databases (PostgreSQL) and project development.<br><br>My goal is to start my career as a Python Developer, grow into a Data Analyst, and eventually become a Data Scientist. I have completed several certifications to strengthen my knowledge, and I am constantly exploring new tools and techniques in programming and data analysis.<br><br>Skills & Interests: Python | SQL | MongoDB | Data Analysis | Data Visualization | Machine Learning | Problem Solving | Project Development
 
 
 ## 🌐 Socials:
