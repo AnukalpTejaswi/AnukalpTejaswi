@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I’m a 3rd-year **B.Tech student in AI & Data Science** at Arya College of Engineering & IT.
+I’m a 3rd-year **UnderGrad in AI & Data Science** at Arya College of Engineering & IT, Jaipur, Rajasthan.
 
 - 🔭 **Specializing in:** Python Development, Data Analysis, and Database Management (MySQL/PostgreSQL).
 - 🌱 **Current Goal:** Transitioning from Python Dev to Data Scientist.
