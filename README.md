@@ -33,5 +33,16 @@ I am constantly exploring new tools in Machine Learning and Project Development.
 ![](https://nirzak-streak-stats.vercel.app/?user=AnukalpTejaswi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukalpTejaswi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 💻 Coding Profiles:
+
+**Primary Platforms**
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=plastic&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_USERNAME/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+
+**Practice Platforms**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AnukalpTejaswi&icon=0&color=0)](https://visitcount.itsvg.in)
