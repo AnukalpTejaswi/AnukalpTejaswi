@@ -1,16 +1,20 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anukalp%20Tejaswi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20and%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anukalp%20Tejaswi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Backend%20and%20Automation%20Enthusiast&descAlignY=55&descAlign=50" />
+
 
 
 # 💫 About Me:
-I’m a 3rd-year **UnderGrad in AI & Data Science** at Arya College of Engineering & IT, Jaipur, Rajasthan.
+### Python Developer | Problem Solver | Continuous Learner
 
-- 🔭 **Specializing in:** Python Development, Data Analysis, and Database Management (MySQL/PostgreSQL).
-- 🌱 **Current Goal:** Transitioning from Python Dev to Data Scientist.
-- 💡 **Passion:** Solving real-world problems through data-driven solutions.
+I am an enthusiastic Python developer and Artificial Intelligence and Data Science undergraduate who enjoys building practical applications and solving challenging problems. My programming journey began in 2021 with Python, and since then I have focused on continuous learning through experimentation, documentation, and project development.
 
-I am constantly exploring new tools in Data Science and Project Development.
+I enjoy logic building, designing application features, and working with databases, where I can correlate structured data with real-world functionality. I believe challenging problems help me grow by improving my problem-solving ability and understanding of software systems.
+
+Currently, I am working on a digital banking dashboard project using Python, React, and database design concepts. Through this and other projects, I am strengthening my development fundamentals, improving code quality, and learning how real applications are structured.
+
+I believe in ongoing learning and continuous improvement — learning from past experience, applying knowledge in the present, and building toward becoming a better developer every day.
+
 
 
 ## 🌐 Socials:
@@ -40,6 +44,15 @@ I am constantly exploring new tools in Data Science and Project Development.
 **Practice Platforms:-**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/anukalptejaswi848125/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white)](https://www.codechef.com/users/anukalp25)
+
+# 🚀 Current Focus
+
+- Data Structures and Algorithms
+- Backend development with Python
+- Database design and integration
+- Building real-world projects
+
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=AnukalpTejaswi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukalpTejaswi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
