@@ -1,63 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=240&section=header&text=Anukalp%20Tejaswi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20|%20Backend%20Developer%20|%20Building%20Projects&descSize=18&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:336791&height=210&section=header&text=Anukalp%20Tejaswi_&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20data-driven%20solutions%2C%20one%20query%20at%20a%20time.&descSize=15&descAlignY=58&descColor=8ecae6" />
 
+</div>
 
+<div align="center">
 
-#  About Me:
-### Python Developer | Problem Solver | Continuous Learner
+`Data Engineer`  ·  `Data Analyst`  ·  `Python Developer`  ·  `B.Tech AI & Data Science`
 
-I am an enthusiastic Python developer and Artificial Intelligence and Data Science undergraduate who enjoys building practical applications and solving challenging problems. My programming journey began in 2021 with Python, and since then I have focused on continuous learning through experimentation, documentation, and project development.
+</div>
 
-I enjoy logic building, designing application features, and working with databases, where I can correlate structured data with real-world functionality. I believe challenging problems help me grow by improving my problem-solving ability and understanding of software systems.
+<br/>
 
-Currently, I am working on a digital banking dashboard project using Python, React, and database design concepts. Through this and other projects, I am strengthening my development fundamentals, improving code quality, and learning how real applications are structured.
+```sql
+SELECT *
+FROM   opportunities
+WHERE  primary_language = 'Python'
+  AND  role IN ('Data Engineer', 'Data Analyst', 'Python Developer')
+  AND  impact = true;
+```
 
-I believe in ongoing learning and continuous improvement — learning from past experience, applying knowledge in the present, and building toward becoming a better developer every day.
+<br/>
 
+## `TABLE: about`
 
+I am a Data Analyst and Python developer specializing in database architecture and scalable backend systems. I specialize in identifying patterns within complex datasets and writing optimized queries to extract actionable business insights.
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anukalp-tejaswi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anukalptejaswi848125@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_a._._.t_)
+My primary focus is bridging the gap between raw data storage and advanced analytics. Across my development projects, I design relational PostgreSQL schemas from the ground up. I prioritize scalable architecture — such as rigorous table normalization — to ensure data is cleanly structured for complex querying, cross-user analytics, and future machine learning integrations.
 
-#  Tech Stack:
+I build data pipelines and backend logic using Python, Pandas, NumPy, and FastAPI. Currently, I am actively hardening my problem-solving skills by mastering advanced data structures in Python and tackling complex database querying challenges to ensure the systems I build are highly efficient.
 
-###  Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+<div align="center">
 
-###  Data Science & Databases
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-336791?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anukalp-tejaswi)
+[![Email](https://img.shields.io/badge/Email-336791?style=flat-square&logo=gmail&logoColor=white)](mailto:anukalp.25@outlook.com)
 
-###  Development & Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+</div>
 
+<br/>
 
-###  Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+## `TABLE: tech_stack`
 
-#  Coding Profiles:
+<div align="center">
 
-**Primary Platforms:-**
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=plastic&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anukalp25)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anukalptejaswi81)
+| category | stack |
+|:--|:--|
+| **languages** | ![Python](https://img.shields.io/badge/python-336791?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-336791?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-336791?style=flat-square&logo=c&logoColor=white) |
+| **data & db** | ![Pandas](https://img.shields.io/badge/pandas-336791?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-336791?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-336791?style=flat-square&logo=mysql&logoColor=white) |
+| **backend & frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-336791?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-336791?style=flat-square&logo=react&logoColor=61DAFB) |
+| **tools** | ![Git](https://img.shields.io/badge/git-336791?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-336791?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-336791?style=flat-square&logo=Canva&logoColor=white) |
 
-**Practice Platforms:-**
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/anukalptejaswi848125/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white)](https://www.codechef.com/users/anukalp25)
-<!--
-# 🚀 Current Focus
+</div>
 
-- Data Structures and Algorithms
-- Backend development with Python
-- Database design and integration
-- Building real-world projects
+<br/>
 
--->
+## `TABLE: featured_projects`
 
- #  GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AnukalpTejaswi&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukalpTejaswi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| project | description |
+|:--|:--|
+| 🏦 **Modern Digital Banking Dashboard** | Backend architecture and scalable database design for a banking platform, featuring real-time data pipelines and transaction management — Python, PostgreSQL, FastAPI. |
+| 📊 **E-Commerce Sales Data Analysis** | Exploratory data analysis and interactive dashboards built with Python, Pandas, and NumPy. |
 
+<div align="center">
 
----
+More projects on my [repositories →](https://github.com/AnukalpTejaswi?tab=repositories)
+
+</div>
+
+<br/>
+
+## `TABLE: coding_profiles`
+
+<div align="center">
+
+| type | platform |
+|:--|:--|
+| **primary** | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-336791?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anukalp25) [![HackerRank](https://img.shields.io/badge/HackerRank-336791?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anukalptejaswi81) |
+| **practice** | [![LeetCode](https://img.shields.io/badge/LeetCode-336791?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anukalptejaswi848125/) [![CodeChef](https://img.shields.io/badge/CodeChef-336791?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/anukalp25) |
+
+</div>
+
+<br/>
+
+## `SELECT * FROM github_activity;`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnukalpTejaswi/AnukalpTejaswi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AnukalpTejaswi/AnukalpTejaswi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+> *"Data is not just information, it's a better way to understand the world."*
+
+<br/>
+
+```sql
+COMMIT;
+-- end of transaction
+```
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=AnukalpTejaswi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
