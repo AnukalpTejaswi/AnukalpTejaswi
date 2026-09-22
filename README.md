@@ -48,7 +48,7 @@ I build data pipelines and backend logic using Python, Pandas, NumPy, and FastAP
 | **languages** | ![Python](https://img.shields.io/badge/python-336791?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-336791?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-336791?style=flat-square&logo=c&logoColor=white) |
 | **data & db** | ![Pandas](https://img.shields.io/badge/pandas-336791?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-336791?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-336791?style=flat-square&logo=mysql&logoColor=white) |
 | **backend & frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-336791?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-336791?style=flat-square&logo=react&logoColor=61DAFB) |
-| **tools** | ![Git](https://img.shields.io/badge/git-336791?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-336791?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-336791?style=flat-square&logo=Canva&logoColor=white) |
+| **tools** | ![Git](https://img.shields.io/badge/git-336791?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-336791?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
